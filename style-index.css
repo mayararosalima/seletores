@@ -1,0 +1,32 @@
+div{
+    display: inline-block;
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    margin: -3px;
+}
+
+section{
+    justify-content: center;
+}
+
+.vermelha{
+    background-color: red;
+}
+
+#borda{
+    border: 1px solid black;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarela{
+    background-color: yellow;
+}
+
